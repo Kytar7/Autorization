@@ -1,0 +1,22 @@
+.root {
+    -fx-font-size: 17px;
+}
+
+.label {
+    -fx-text-fill: #502222;
+}
+
+.text-field {
+    -fx-border-color: #d25615;
+    -fx-border-radius: 5;
+}
+
+.button {
+    -fx-background-color: #8a41d5;
+    -fx-text-fill: #ffffff;
+    -fx-background-radius: 5;
+}
+
+.button:hover {
+    -fx-background-color: #692a9d;
+}
